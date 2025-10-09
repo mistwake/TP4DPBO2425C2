@@ -12,6 +12,5 @@
 6. Semua perubahan langsung diperbarui di tabel tanpa perlu restart program.
 
 ## Dokumentasi
-https://youtu.be/Y09o2usTT64
 https://github.com/user-attachments/assets/3bb39bbc-6723-4a5d-ac49-40a7e69a1576
 
